@@ -1,4 +1,4 @@
-name: Build Mini Business APK
+name: Build Mini Business APK v2
 
 on:
   workflow_dispatch:
